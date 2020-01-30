@@ -1,9 +1,10 @@
 {
-    "name": "septio/laravel-meaningcloud",
-    "description": "A Laravel Nova field.",
+    "name": "septio/laravel-nova-meaning-cloud",
+    "description": "A field for Laravel Nova that generates summarized text from another text field by using Meaning Cloud's API.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "summarization",
     ],
     "license": "MIT",
     "require": {
